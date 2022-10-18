@@ -1,5 +1,5 @@
 # Mononoki - 专为程序员而生的优秀免费等宽编程字体，优化代码显示效果
- 
+
 > Mononoki - 专为程序员而生的优秀免费等宽编程字体，优化代码显示效果
 
 > 对程序员/开发者来说，每天看得最多的一定是代码了。
@@ -12,7 +12,7 @@
 
 > 它除了清晰美观之外，最重要的有着高可读性和高辨识度，长时间编写和阅读代码眼睛也不易产生疲劳……
 
-## Mononoki 免费等宽编程字体 
+## Mononoki 免费等宽编程字体
 
 > 专为编程设计的 Mononoki 是一款英文等宽字体 (Monospace Font)，
 
@@ -24,10 +24,10 @@
 
 > 而且根据介绍，该字体在「高分辨率」显示器上的显示效果也会非常不错，
 
->所以使用 Macbook 的 Retina 视网膜屏或者用上 2K / 4K 分辨率显示器的朋友可以考虑换上试试看了。
+> 所以使用 Macbook 的 Retina 视网膜屏或者用上 2K / 4K 分辨率显示器的朋友可以考虑换上试试看了。
 
 > mononoki 字体Mononoki 字体在 Atom 编辑器下的显示效果，在 SublimeText / VS Code下同样出色
- 
+
 > Mononoki 字体包含了标准 Regular、斜体 Italic、粗体 Bold、倾斜加粗体 BoldItalic 共4款字型，
 
 > 而且提供了 Mac 和 Windows 两个平台的版本，包括 TTF（TrueType）、EOT 及 WOFF 格式，你甚至还可以将 Mononoki 用作网页字体使用。
